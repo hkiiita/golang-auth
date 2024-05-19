@@ -1,2 +1,2 @@
-# golang-basic-auth
-learning purpose demonstration of basic auth in golang .
+# Auth Methods using Golang
+learning purpose demonstration of auth methods using golang .
